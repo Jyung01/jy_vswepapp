@@ -1,0 +1,7 @@
+C:\Users\wldnd\Documents\클라우딩\vs_git\bin\Release\net6.0\publish\vs_git.exe
+C:\Users\wldnd\Documents\클라우딩\vs_git\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\wldnd\Documents\클라우딩\vs_git\bin\Release\net6.0\publish\appsettings.json
+C:\Users\wldnd\Documents\클라우딩\vs_git\bin\Release\net6.0\publish\vs_git.dll
+C:\Users\wldnd\Documents\클라우딩\vs_git\bin\Release\net6.0\publish\vs_git.deps.json
+C:\Users\wldnd\Documents\클라우딩\vs_git\bin\Release\net6.0\publish\vs_git.runtimeconfig.json
+C:\Users\wldnd\Documents\클라우딩\vs_git\bin\Release\net6.0\publish\vs_git.pdb

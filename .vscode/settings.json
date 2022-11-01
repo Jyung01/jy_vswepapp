@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a353a6a9-8e02-49d1-ae14-3bf7fa40e7c2/AppServices/subscriptions/a353a6a9-8e02-49d1-ae14-3bf7fa40e7c2/resourceGroups/jy_rg/providers/Microsoft.Web/sites/jygitwebapp01"
+}
